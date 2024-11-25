@@ -1,0 +1,12 @@
+Package: swicatheme
+Title: Ggplot graphics for SWICA
+Version: 0.0.0.9000
+Authors@R: 
+    person("Aurélien", "Sallin", , "aurelien.sallin@swica.ch", role = c("aut", "cre"))
+Description: Creates a theme for ggplot graphs for SWICA.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    systemfonts (>= 1.0)
